@@ -11,10 +11,10 @@ const Education = () => {
     >
       <div>
         
-        <div className="mt-6 lgl:mt-14 w-full h-[600px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+        <div className="mt-6 lgl:mt-13 w-full h-[600px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="B.Tech"
-            subTitle="Computer Science at VIT Chennai - (2021 - 2025)"
+            subTitle="Computer Science at VIT CHENNAI - (2021 - 2025)"
             des="Successfully completed my graduation in Computer Science, gaining a solid foundation in the field."
           />
           <ResumeCard
