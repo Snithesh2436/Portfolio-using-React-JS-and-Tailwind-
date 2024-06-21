@@ -32,7 +32,7 @@ const Projects = () => {
           des="Developed a responsive weather application using React.js, integrating real-time weather data via API calls for current conditions and forecasts."
           src={WeatherApp}
           github={"https://github.com/Snithesh2436/Weather_App-using-React-js"}
-          liveLink={"https://weather-app-using-react-js-five.vercel.app/"}
+          liveLink={"https://6675b7d6543aaec0b3ed742a--reliable-griffin-a3827a.netlify.app/"}
         />
         <ProjectsCard
           title="Restaurant Reviews"
