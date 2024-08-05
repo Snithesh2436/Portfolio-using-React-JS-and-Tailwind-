@@ -3,7 +3,7 @@ import Title from "../layouts/Title";
 import ProjectsCard from "./ProjectsCard";
 import {
   CodeEditor,
-  RestaurantReviews,
+  FileVault,
   WeatherApp,
   
 } from "../../assets/index";
