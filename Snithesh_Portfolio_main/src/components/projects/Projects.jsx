@@ -28,19 +28,21 @@ const Projects = () => {
           liveLink={"https://online-code-editor-wheat.vercel.app/"}
         />
         <ProjectsCard
+          title="FileVault"
+          des="Created a file storage system with customizable views and robust file and folder management using React.js and Firebase."
+          src={FileVault}
+          github={"https://github.com/Snithesh2436/Google-Drive-Clone-Using-React-JS-and-Firebase"}
+          liveLink={"https://66b06e9bd5c7de783e729e4a--lustrous-melomakarona-c2cc84.netlify.app"}
+          
+        />
+        <ProjectsCard
           title="Weather App"
           des="Developed a responsive weather application using React.js, integrating real-time weather data via API calls for current conditions and forecasts."
           src={WeatherApp}
           github={"https://github.com/Snithesh2436/Weather_App-using-React-js"}
           liveLink={"https://6675b7d6543aaec0b3ed742a--reliable-griffin-a3827a.netlify.app/"}
         />
-        <ProjectsCard
-          title="Restaurant Reviews"
-          des="Engineered a machine learning-driven web application for sentiment analysis of restaurant reviews, enabling users to receive automated sentiment assessments."
-          src={RestaurantReviews}
-          github={"https://github.com/Snithesh2436/Restaurant_Reviews"}
-          
-        />
+        
       </div>
     </section>
   );

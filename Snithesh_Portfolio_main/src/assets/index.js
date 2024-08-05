@@ -1,14 +1,14 @@
 import logo from "./images/logo.png";
 import bannerImg from "./images/bannerImg.png";
 import CodeEditor from "./images/projects/CodeEditor.png";
-import RestaurantReviews from "./images/projects/RestaurantReviews.png";
+import FileVault from "./images/projects/FileVault.png";
 import contactImg from "./images/contact/contactImg.png";
 import WeatherApp from "./images/projects/WeatherApp.png";
 
 
 export {
   logo,
-  RestaurantReviews,
+  FileVault,
   CodeEditor,
   bannerImg,
   WeatherApp,
