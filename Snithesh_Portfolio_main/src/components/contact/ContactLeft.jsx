@@ -37,7 +37,7 @@ const ContactLeft = () => {
           </span>
           <span className="bannerIcon">
             <a
-                href="https://www.linkedin.com/mwlite/in/g-snithesh-74419426b"
+                href="https://www.linkedin.com/in/g-snithesh-74419426b/"
               target="_blank"
             >
               <FaLinkedinIn />
